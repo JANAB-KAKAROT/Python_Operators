@@ -1,4 +1,4 @@
-Python Operators Explained! 🚀  
+# Python Operators Explained! 🚀  
 
 This is a simple Python project that demonstrates different types of operators. Operators are the basic elements that perform actions on numbers and values—like addition, subtraction, comparison, checking if something exists in a list, and much more! 👀  
 
